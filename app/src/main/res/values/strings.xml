@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task Management</string>
+    <string-array name="filter">
+        <item>Show all</item>
+        <item>Urgent</item>
+    </string-array>
+</resources>
